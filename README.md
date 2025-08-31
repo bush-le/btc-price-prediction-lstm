@@ -1,1 +1,1 @@
-# btc-price-prediction-lstm
+#BTC Price Prediction using LSTM
