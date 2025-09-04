@@ -4,5 +4,6 @@ This repository applies **LSTM (Long Short-Term Memory)** to predict **Bitcoin (
 Implemented in **Python** with **TensorFlow/Keras, Pandas, Numpy**, and visualized via **Matplotlib/Seaborn**.  
 
 ## 📑 Reports
-- 📄 [Vietnamese Report (PDF)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/BTC_Prediction_Report.pdf)  
-- 📄 [English Report (Markdown)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/Bitcoin_LSTM_Report_English.markdown)  
+- 📄 [Vietnamese Report (PDF)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/BTC_Prediction_Report.pdf)
+- 📄 [Vietnamese Report (Markdown)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/Bitcoin_LSTM_Report_Vietnamese.markdown)
+- 📄 [English Report (Markdown)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/Bitcoin_LSTM_Report_English.markdown)
