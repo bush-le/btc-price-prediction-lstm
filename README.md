@@ -5,5 +5,3 @@ Implemented in **Python** with **TensorFlow/Keras, Pandas, Numpy**, and visualiz
 
 ## 📑 Reports
 - 📄 [Vietnamese Report (PDF)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/BTC_Prediction_Report.pdf)
-- 📄 [Vietnamese Report (Markdown)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/Bitcoin_LSTM_Report_Vietnamese.markdown)
-- 📄 [English Report (Markdown)](https://github.com/bush-le/btc-price-prediction-lstm/blob/main/Bitcoin_LSTM_Report_English.markdown)
